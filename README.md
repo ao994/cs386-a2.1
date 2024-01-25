@@ -1,11 +1,11 @@
-MyCarDriver should be a first-level heading
-Installation and Developers should be second-level headings
- [pip](https://pypi.org/project/pip/) 
-The pip logo should come from this URL:![logo symbol](https://pypi.org/static/images/logo-small.95de8436.svg)
-Add the name of the members of your group in the list of the developers.
+# MyCarDriver 
+MyCarDriver drives the car for you.
+## Installation
+Use the package manager [pip](https://pypi.org/project/pip/) to install MyCarDriver
+URL:![logo symbol](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png)
 
-The name of the recorder should be in italics.
-
+## Developers
 **Andrew Ortega**
-Alyssa Ortiz
 *Karissa Smallwood*
+Alyssa Ortiz
+
